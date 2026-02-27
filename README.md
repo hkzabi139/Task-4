@@ -1,7 +1,7 @@
 ## 🌐 Live Demo
 You can test the live simulation here: https://hkzabi139.github.io/Task-4/
 Key Features
-Real-time Interaction Tracking: Monitors mouse speed, click frequency, and typing patterns to detect stress or calm.
+Real-time Interaction Tracking: Monitors mouse speed, click frequency, and typing patterns to https://hkzabi139.github.io/Task-4/detect stress or calm.
 Dynamic Stability Score: A live score (0-100) that adjusts based on interaction intensity.
 Glassmorphic UI: A modern, responsive dashboard with a dynamic mood-based glow effect.
 Live Analytics Graph: Integrated Chart.js to visualize the stability score history in real-time.
