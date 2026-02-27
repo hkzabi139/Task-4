@@ -1,6 +1,9 @@
-## 🌐 Live Demo
-You can test the live simulation here: **[https://hkzabi139.github.io/Task-4/]**
+# 🧠 MoodFlow AI | Smart Emotional State Simulator
 
+## 🌐 Live Demo
+You can test the live simulation here: **[https://hkzabi139.github.io/Task-4/](https://hkzabi139.github.io/Task-4/)**
+
+---
 
 Key Features
 Real-time Interaction Tracking: Monitors mouse speed, click frequency, and typing patterns to detect stress or calm.
